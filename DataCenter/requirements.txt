@@ -1,0 +1,10 @@
+requests
+urllib3
+python-dateutil
+pytz
+pymongo
+setuptools
+wheel
+twine
+sqlalchemy
+pandas
